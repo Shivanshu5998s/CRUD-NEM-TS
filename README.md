@@ -1,5 +1,5 @@
 # CRUD-NEM-TS
-Crud using TypeScript...
+Crud using TypeScript... Files - build, .env, .gitignore ...
 
 ## Install TypeScript locally or globally. - use TS docs - https://www.typescriptlang.org/download/
 ## npm i for installing node modules.
